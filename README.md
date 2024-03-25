@@ -19,7 +19,11 @@ To Automate chatbot present [here](https://c0.avaamo.com/web_channels/cce5f713-c
 6. Install playwright browsers, run from terminal: ``npx playwright install``
 7. Once you are inside ``avaamo`` folder run following command ``npx playwright test``
 
-[Demo](../../../Desktop/avaamo_report.mov)
+Demo: 
+
+https://github.com/rahulrai2990/avaamo/assets/130296550/16672686-8e2e-4692-9a9c-f319df134d3e
+
+
 
 ### Folder Structures:
 1. config is present at: ``playwright.config.ts``
