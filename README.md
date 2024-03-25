@@ -6,7 +6,7 @@ To Automate chatbot present [here](https://c0.avaamo.com/web_channels/cce5f713-c
 
 1. Place a veg and non-veg pizza order.
 2. Submit positive and negative feedback.
-3. Validate the respsone chatbot.
+3. Validate the respsone of chatbot from UI.
 4. Validate the network call made when sending request to chatbot.
 
 ### Steps to run:
@@ -15,8 +15,9 @@ To Automate chatbot present [here](https://c0.avaamo.com/web_channels/cce5f713-c
 2. Open terminal and change the current directory path to cloned repo folder location ``avaamo``
 3. Install node 16 from [here](https://nodejs.org/en/download)
 4. Once node is installed install typescript using command in terminal: ```npm i typescript```
-5. Install playwright using command in terminal: ```npm init playwright@latest```
-6. Once you are inside ``avaamo`` folder run following command ``npx playwright test``
+5. Install playwright using command in terminal: ```npm i playwright```
+6. Install playwright browsers, run from terminal: ``npx playwright install``
+7. Once you are inside ``avaamo`` folder run following command ``npx playwright test``
 
 [Demo](../../../Desktop/avaamo_report.mov)
 
